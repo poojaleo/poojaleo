@@ -11,7 +11,7 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 📫 &nbsp;You can shoot me an email at poojapatel.leo@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Have a look at my [Résumé](https://drive.google.com/file/d/1DxVTgZrVJSYZCojCf4npBRm2zuDEq54i/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!\
-⚡ &nbsp;Fun fact **I am tone-deaf but love singing**
+⚡ &nbsp;Fun fact <em>I am tone-deaf but love singing</em>
 
 &nbsp;
 ### 🤝🏻 &nbsp;Connect with Me
