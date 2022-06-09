@@ -77,7 +77,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poojaleo&show_icons=true&locale=en&layout=compact" alt="poojaleo" />
-  <img src="https://github-readme-stats.vercel.app/api?username=poojaleo&show_icons=true&locale=en" alt="poojaleo" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poojaleo&show_icons=true&locale=en&layout=compact" alt="poojaleo" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=poojaleo&show_icons=true&locale=en" alt="poojaleo" width="500"/>
 </p>
 
