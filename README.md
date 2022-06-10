@@ -5,7 +5,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=poojaleo&label=Profile%20views&color=0e75b6&style=flat" alt="poojaleo" /> </p>
 
-💡 &nbsp;I like to explore new technologies and develop software solutions\
+🔭 &nbsp;I like to explore new technologies and develop software solutions\
 👀 &nbsp; I’m interested in Backend Development \
 🌱 &nbsp;I’m currently learning **Spring, Docker and Kubernetes**\
 🗣️ &nbsp;Ask me about **Java, AWS and React**\
