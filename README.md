@@ -1,15 +1,16 @@
 
 <h1 align="center">Hi there 👋, I'm Pooja</h1>
 
-<h3 align="center">I'm an Full Stack Developer, looking to solve real-world problems🌏. I'm passionate about making open-source more accessible, creating software💻 and tools to help people, and building a community. Do 🌟 <a href="https://github.com/poojaleo">my repository</a> if you find my project interesting.</h3>
+<h3 align="center">I'm a Full Stack Software Developer, looking to solve real-world problems🌏. I'm resilient and have an immense curiosity for continually learning 💻 new things. Do 🌟 <a href="https://github.com/poojaleo">my repository</a> if you find my project interesting.</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=poojaleo&label=Profile%20views&color=0e75b6&style=flat" alt="poojaleo" /> </p>
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies and develop software solutions\
+👀 &nbsp; I’m interested in Backend Development \
 🌱 &nbsp;I’m currently learning **Spring, Docker and Kubernetes**\
 💬 &nbsp;Ask me about **Java, AWS and React**\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-📫 &nbsp;You can shoot me an email at poojapatel.leo@gmail.com! I'll try to respond as soon as I can.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion\
+📫 &nbsp;You can shoot me an email at poojapatel.leo@gmail.com! I'll try to respond as soon as I can\
 📄 &nbsp;Have a look at my [Résumé](https://drive.google.com/file/d/1DxVTgZrVJSYZCojCf4npBRm2zuDEq54i/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!\
 ⚡ &nbsp;Fun fact <em>I am tone-deaf but love singing</em>
 
