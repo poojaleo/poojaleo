@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there 👋, I'm Pooja</h1>
 
-<h3 align="center">I'm a Full Stack Software Developer, looking to solve real-world problems🌏. I'm resilient and have an immense curiosity for continually learning 💻 new things. Do 🌟 <a href="https://github.com/poojaleo">my repository</a> if you find my project interesting.</h3>
+<h3 align="center">I'm a Full Stack Software Developer, looking to solve real-world problems🌏. I'm resilient and have immense curiosity for continually learning 💻 new things. Do 🌟 <a href="https://github.com/poojaleo">my repository</a> if you find my projects interesting.</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=poojaleo&label=Profile%20views&color=0e75b6&style=flat" alt="poojaleo" /> </p>
 
