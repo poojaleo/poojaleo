@@ -13,7 +13,6 @@
 📫 &nbsp;You can shoot me an email at poojapatel.leo@gmail.com! I'll try to respond as soon as I can\
 ⚡  &nbsp;Fun fact <em>I am tone-deaf but love singing</em>
 
-&nbsp;
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/poojapatel04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poojapatel04" height="30" width="40" /></a>
