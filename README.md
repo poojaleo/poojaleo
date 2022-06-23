@@ -11,8 +11,7 @@
 🗣️ &nbsp;Ask me about **Java, AWS and React**\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion\
 📫 &nbsp;You can shoot me an email at poojapatel.leo@gmail.com! I'll try to respond as soon as I can\
-
-⚡ &nbsp;Fun fact <em>I am tone-deaf but love singing</em>
+⚡  &nbsp;Fun fact <em>I am tone-deaf but love singing</em>
 
 &nbsp;
 ### 🤝🏻 &nbsp;Connect with Me
